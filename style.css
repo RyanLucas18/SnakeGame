@@ -1,0 +1,17 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    color: green;
+    font-family: Anonymous Pro, Arial, Helvetica, sans-serif;
+    background-color: #f1faee;
+}
+
+.jogo{
+    border-radius: 50px;
+    border: 6px solid #f8961e;
+}
